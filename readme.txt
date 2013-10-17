@@ -1,8 +1,4 @@
-Name: @tik Facebook Like Box
-Version: 1.3.1
-Type: Module
-Author: OC2PS
-www.csillamvilag.com
+@tik Facebook Like Box
 
 Purpose
 =======
